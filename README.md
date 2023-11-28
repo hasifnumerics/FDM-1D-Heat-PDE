@@ -16,9 +16,7 @@ The project approaches the equation from both a theoretical and computational pe
 - **Numerical Implementation**: We discretize the problem domain and apply the finite difference method to approximate the continuous PDE with a system of algebraic equations. This method is implemented in Python, utilizing libraries such as NumPy and Matplotlib for computation and visualization.
 
 ## Repository Structure
-- `derivation/`: Contains LaTeX files that detail the mathematical derivation of the 1D heat equation.
 - `code/`: Includes the Python scripts used for the numerical solution of the equation.
-- `results/`: Stores the generated plots and data that illustrate the behavior of the solution over time.
 - `report/`: A comprehensive report compiled in LaTeX, discussing the methodology, results, and implications of the findings.
 
 ## Results and Discussion
