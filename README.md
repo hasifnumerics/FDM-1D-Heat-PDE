@@ -34,7 +34,7 @@ The project lays the groundwork for extending the numerical methods to more comp
 Contributions to this project are welcome, whether they be in the form of suggestions, improvements, or extensions of the current work. For any inquiries or collaboration proposals, please reach out through the contact information provided.
 
 ## Acknowledgments
-This project was developed as part of the coursework for [Your Course Name], under the guidance of [Your Supervisor's Name], at [Your University Name].
+This project was developed as part of the coursework for PHYS425: Advanced Mechanics and Computational Physics, under the guidance of Megan Pickett, at Lawrence University.
 
 ## Author
 Hasif Ahmed
